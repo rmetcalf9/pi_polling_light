@@ -1,9 +1,9 @@
 {
 	"tests": [{
 		"name": "A",
-		"uri": "http://todo"
+		"uri": "https://rmetcalf9.github.io/pi_polling_light/test_a.json"
 	}, {
 		"name": "B",
-		"uri": "http://todo2"
+		"uri": "https://rmetcalf9.github.io/pi_polling_light/test_b.json"
 	}]
 }
