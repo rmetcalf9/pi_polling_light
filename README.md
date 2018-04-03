@@ -20,3 +20,12 @@ FUTURE Indicator turn on when shut down???
 
 
 sudo pip3 install -r requirements.txt
+
+
+
+# Sample service
+
+For developing I used github pages to make a sample rest service:
+
+[Main list](https://rmetcalf9.github.io/pi_polling_light/testlist.json)
+
