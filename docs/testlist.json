@@ -1,0 +1,9 @@
+{
+	"tests": [{
+		"name": "A",
+		"uri": "http://todo"
+	}, {
+		"name": "B",
+		"uri": "http://todo2"
+	}]
+}
